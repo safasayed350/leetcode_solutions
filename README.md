@@ -22,3 +22,4 @@ Personal LeetCode practice log — part of B25GE0101 portfolio.
 ## About Me
 - Learning: C programming and data structures & algorithms
 - Interested in: Problem-solving and algorithmic thinkinggit add README.md
+- Goal: Strengthen my programming skills and build a strong technical portfolio
