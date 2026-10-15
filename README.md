@@ -11,3 +11,13 @@ Personal LeetCode practice log — part of B25GE0101 portfolio.
 -- [Basic Algorithms](./basic%20algorithms/)
 - [Stacks](./stacks/)
 - [Linked Lists](./linked-lists/)
+
+
+
+
+
+
+
+
+## About Me
+- Learning: C programming and data structures & algorithms
